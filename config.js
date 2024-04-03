@@ -1,0 +1,1 @@
+export const PEXEL_API_KEY = 'tHmlFNYphNAxWKmYVZVpXCJsjJlzL1bDRlkhJFvADzTa2qkqPbQbQwc0';
